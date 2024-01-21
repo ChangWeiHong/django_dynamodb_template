@@ -1,4 +1,3 @@
-```markdown
 # Project Setup and Deployment Guide
 
 This guide walks you through setting up a Django project, creating a Django app, and deploying it using Zappa.
