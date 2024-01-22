@@ -111,6 +111,13 @@ zappa undeploy dev
 ```
 
 This README provides a basic outline. Customize it based on your project specifics and add more sections as needed.
-```
+
 
 This addition guides users on defining URLs in the `urls.py` file before defining models in the Django app. Adjust the instructions as needed for your specific project structure and requirements.
+
+
+## Reference
+[1] PynamoDB Link (https://pynamodb.readthedocs.io/en/stable/quickstart.html)
+[2] Zappa Django Guide by edgarroman (https://romandc.com/zappa-django-guide/)
+[3] Django Rest Framework (https://www.django-rest-framework.org/)
+[4] Django Setup (https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
